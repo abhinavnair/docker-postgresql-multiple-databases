@@ -1,5 +1,7 @@
 # Using multiple databases with the official PostgreSQL Docker image
 
+![Build and Publish to DockerHub](https://github.com/abhinavnair/docker-postgresql-multiple-databases/workflows/Build%20and%20Publish%20to%20DockerHub/badge.svg?branch=master)
+
 The [official recommendation](https://hub.docker.com/_/postgres/) for creating
 multiple databases is as follows:
 
